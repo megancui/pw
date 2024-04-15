@@ -12,7 +12,7 @@ title                    : "Megan Cui"
 title_separator          : "-"
 name                     : &name "Megan Cui"
 description              : &description "personal description"
-url                      : "megancui.com"
+url                      : "https://megancui.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "megancui/pw" #
 
