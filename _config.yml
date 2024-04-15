@@ -24,8 +24,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Megan Cui"
   pronouns         : # example: "she/her"  
-  bio              : "Cambridge, MA"
-  location         : # "Cambridge, MA"
+  bio              : "Research @ Harvard Kennedy School"
+  location         : "Cambridge, MA"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "megancui[@at]college.harvard.edu" 
