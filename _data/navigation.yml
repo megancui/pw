@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "About"
-    url: /
+  # - title: "About"
+  #   url: /
 
   # - title: "Publications"
   #   url: /publications/
@@ -18,8 +18,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/resume.pdf
+  # - title: "CV"
+  #   url: /files/resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/

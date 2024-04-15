@@ -15,5 +15,4 @@ I am a proud Midwesterner, born and raised near Cincinnati, OH. Before this, I w
 
 In my free time, I [daydream about tech education for kids](https://executebig.org), quadruple the amount of garlic needed in any given recipe, and make clothes.
 
-
 <!-- My research interests are broadly labor, public, and urban economics.  -->
