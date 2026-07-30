@@ -21,14 +21,14 @@ repository               : "megancui/pw" #
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "nyc_headshot_big.jpg"
   name             : "Megan Cui"
   pronouns         : # example: "she/her"  
   bio              : "Data Science @ Walmart"
   location         : "New York City"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "megancui[@at]g.harvard.edu" 
+  email            : "megancui[@.a.t]g.harvard.edu" 
 
   # Academic websites
   arxiv            : #
@@ -51,7 +51,7 @@ author:
   facebook         : # 
   flickr           : # 
   foursquare       : # 
-  goodreads        : # 
+  goodreads        : "https://www.goodreads.com/user/show/34496742-megan-cui"
   google_plus      : # 
   keybase          : # 
   instagram        : # 
@@ -62,7 +62,7 @@ author:
   pinterest        : # 
   soundcloud       : # 
   steam            : # 
-  substack         : "https://megancui.substack.com/"
+  substack         : #
   telegram         : # 
   tumblr           : # 
   twitter          : # 
