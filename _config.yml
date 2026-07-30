@@ -21,7 +21,7 @@ repository               : "megancui/pw" #
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "nyc_headshot_big.jpg"
+  avatar           : "nyc_headshot_big_square.jpg"
   name             : "Megan Cui"
   pronouns         : # example: "she/her"  
   bio              : "Data Science @ Walmart"
