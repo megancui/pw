@@ -9,9 +9,9 @@ redirect_from:
 
 Hi there! I'm Megan.
 
-I am currently a data scientist on the Walmart Economics team. Starting in the fall of 2026, I will start my PhD in economics at Harvard University. 
+I am currently a PhD student in economics at Harvard University. 
 
-Previously, I was a fellow at the Harvard Kennedy School's Taubman Center with Professor Jeffrey Liebman. I graduated from Harvard in 2023, and I studied economics and computer science.
+Previously, I was a data scientist on the Walmart Economics team. I also spent time as a fellow at the Harvard Kennedy School's Taubman Center with Professor Jeffrey Liebman. I graduated from Harvard in 2023 where I studied economics and computer science.
 
 I am a proud Midwesterner, born and raised near Cincinnati, OH. Before this, I worked in non-profit fundraising, computer science education, and product management.
 
